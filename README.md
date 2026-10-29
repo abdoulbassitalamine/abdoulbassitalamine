@@ -3,11 +3,11 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdoulbassitalamine/abdoulbassitalamine/main/assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdoulbassitalamine/abdoulbassitalamine/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdoulbassitalamine/abdoulbassitalamine/main/assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Abdoul Bassit Laminou Amadou — Software Engineer. Flutter in production, backend systems.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Abdoul Bassit Laminou Amadou — Software Engineer. Mobile apps and the backends behind them.">
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=8B5CF6&center=true&vCenter=true&width=620&height=44&lines=Flutter+apps+in+production+since+2024;Clean+Architecture+%C2%B7+Riverpod+%C2%B7+Melos;Building+Gaggawa%2C+package+delivery+for+Niamey;Mobile+app%2C+API+and+infrastructure%2C+end+to+end" alt="Flutter apps in production since 2024. Clean Architecture, Riverpod, Melos. Building Gaggawa, package delivery for Niamey. Mobile app, API and infrastructure, end to end.">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1400&color=8B5CF6&center=true&vCenter=true&width=620&height=44&lines=Production+mobile+apps+since+2024;Building+Gaggawa%3A+Spring+Boot+API+%2B+Flutter+app;Java+21+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL+%C2%B7+Redis;Open+to+roles+in+France%3A+mobile%2C+backend%2C+or+both" alt="Production mobile apps since 2024. Building Gaggawa: Spring Boot API + Flutter app. Java 21 · Spring Boot · PostgreSQL · Redis. Open to roles in France: mobile, backend, or both.">
 </p>
 
 <p align="center">
@@ -29,17 +29,9 @@ Engineering degree in Telecommunications &amp; Networks, **ENSA Safi**
 
 Local package delivery for Niamey, Niger: a client posts a request once, a verified courier accepts it, and the status stays visible until hand-off. In development, pre-launch.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdoulbassitalamine/abdoulbassitalamine/main/assets/gaggawa-architecture-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdoulbassitalamine/abdoulbassitalamine/main/assets/gaggawa-architecture-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdoulbassitalamine/abdoulbassitalamine/main/assets/gaggawa-architecture-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdoulbassitalamine/abdoulbassitalamine/main/assets/gaggawa-architecture-light.svg">
-  <img src="assets/gaggawa-architecture-dark.svg" width="100%" alt="Gaggawa architecture. Clients: Flutter mobile app, Quasar admin console, Nuxt marketing site. API: Laravel 12 with JWT auth, Octane and Horizon queues; a Spring Boot rewrite is in progress. Data and messaging: PostgreSQL, Redis, S3-compatible object storage, Centrifugo pushing realtime events to the app. Runs on Docker Compose on a VPS with GitHub Actions CI/CD, Nginx, Cloudflare Tunnel, Prometheus, Grafana and Alertmanager.">
-</picture>
-
-- **API** — Laravel 12 is the current implementation: JWT auth, delivery statuses and roles, Horizon queues. I am rewriting it in Spring Boot.
-- **Realtime** — delivery status reaches the app through Centrifugo, which runs as its own service next to the API.
-- **Kept simple before launch** — one VPS and Docker Compose. GitHub Actions builds the images, Prometheus and Grafana watch them.
+- **Mobile app** — Flutter, one app for clients and couriers.
+- **API** — Java 21 and Spring Boot, split into modules (delivery, payment, notification…).
+- **Realtime** — delivery status reaches the app through Centrifugo.
 
 [gaggawa.com](https://www.gaggawa.com) · source code private
 
@@ -78,7 +70,17 @@ Local package delivery for Niamey, Niger: a client posts a request once, a verif
   <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,cloudflare,aws,azure,prometheus,grafana" alt="Docker, GitHub Actions, Linux, Nginx, Cloudflare, AWS, Azure, Prometheus, Grafana">
 </p>
 
-<p align="center"><sub>Daily at work: Flutter &amp; Dart · Full stack on Gaggawa: Laravel, PostgreSQL, Redis, Docker</sub></p>
+<p align="center"><sub>Daily at work: Flutter &amp; Dart · Full stack on Gaggawa: Spring Boot, PostgreSQL, Redis, Docker</sub></p>
+
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abdoulbassitalamine&theme=dark&background=00000000&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=abdoulbassitalamine&theme=default&background=00000000&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&disable_animations=true">
+    <img src="https://streak-stats.demolab.com/?user=abdoulbassitalamine&theme=dark&hide_border=true&disable_animations=true" alt="GitHub contribution streak and total contributions">
+  </picture>
+</p>
 
 ## Contact
 

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title">
-  <title id="title">Abdoul Bassit Laminou Amadou, Software Engineer: Flutter in production, backend systems</title>
+  <title id="title">Abdoul Bassit Laminou Amadou, Software Engineer: mobile apps and the backends behind them</title>
   <style>
     .sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -11,7 +11,6 @@
     .route { fill: none; stroke: #8F8A9C; stroke-width: 1.75; }
     .edge-accent { fill: none; stroke: #7C3AED; stroke-width: 1.5; }
     .box { fill: #FFFFFF; stroke: #E4E0EC; stroke-width: 1; }
-    @media (prefers-reduced-motion: reduce) { .motion { display: none; } }
   </style>
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
@@ -31,24 +30,5 @@
   <text x="72" y="102" class="mono muted" font-size="14" letter-spacing="2.5">ÎLE-DE-FRANCE</text>
   <text x="68" y="176" class="sans text" font-size="64" font-weight="700" letter-spacing="-1.8">Abdoul Bassit</text>
   <text x="71" y="216" class="sans muted" font-size="26" font-weight="500" letter-spacing="-.3">Laminou Amadou</text>
-  <text x="72" y="276" class="sans text" font-size="23" font-weight="500">Software Engineer <tspan class="accent">—</tspan> Flutter in production, backend systems</text>
-  <g aria-hidden="true">
-    <path class="route" d="M840,118 C900,118 915,190 975,190"/>
-    <path class="route" d="M975,190 C1040,190 1050,112 1115,112"/>
-    <path class="route" d="M975,190 C1040,190 1050,270 1115,270"/>
-    <path class="route" d="M975,190 C935,190 915,272 860,272"/>
-    <path class="edge-accent" d="M860,272 C800,272 790,170 840,118" stroke-dasharray="3 6"/>
-    <circle cx="975" cy="190" r="16" fill="#EDE7FD"/>
-    <circle cx="840" cy="118" r="7" fill="#FBFAFD" stroke="#8F8A9C" stroke-width="1.75"/><circle cx="840" cy="118" r="2.5" fill="#55515F"/>
-    <text x="840" y="99" text-anchor="middle" class="mono muted" font-size="15" stroke="#FBFAFD" stroke-width="6" stroke-linejoin="round" paint-order="stroke">flutter app</text>
-    <circle cx="975" cy="190" r="7" fill="#FBFAFD" stroke="#7C3AED" stroke-width="1.75"/><circle cx="975" cy="190" r="2.5" fill="#7C3AED"/>
-    <text x="975" y="220" text-anchor="middle" class="mono accent" font-size="15" stroke="#FBFAFD" stroke-width="6" stroke-linejoin="round" paint-order="stroke">laravel api</text>
-    <circle cx="1115" cy="112" r="7" fill="#FBFAFD" stroke="#8F8A9C" stroke-width="1.75"/><circle cx="1115" cy="112" r="2.5" fill="#55515F"/>
-    <text x="1115" y="93" text-anchor="middle" class="mono muted" font-size="15" stroke="#FBFAFD" stroke-width="6" stroke-linejoin="round" paint-order="stroke">postgres</text>
-    <circle cx="1115" cy="270" r="7" fill="#FBFAFD" stroke="#8F8A9C" stroke-width="1.75"/><circle cx="1115" cy="270" r="2.5" fill="#55515F"/>
-    <text x="1115" y="300" text-anchor="middle" class="mono muted" font-size="15" stroke="#FBFAFD" stroke-width="6" stroke-linejoin="round" paint-order="stroke">redis</text>
-    <circle cx="860" cy="272" r="7" fill="#FBFAFD" stroke="#8F8A9C" stroke-width="1.75"/><circle cx="860" cy="272" r="2.5" fill="#55515F"/>
-    <text x="860" y="302" text-anchor="middle" class="mono muted" font-size="15" stroke="#FBFAFD" stroke-width="6" stroke-linejoin="round" paint-order="stroke">centrifugo</text>
-    <circle class="motion" r="4.2" fill="#7C3AED"><animateMotion dur="7s" repeatCount="indefinite" calcMode="paced" path="M840,118 C900,118 915,190 975,190 C935,190 915,272 860,272 C800,272 790,170 840,118"/></circle>
-  </g>
+  <text x="72" y="276" class="sans text" font-size="23" font-weight="500">Software Engineer <tspan class="accent">—</tspan> mobile apps and the backends behind them</text>
 </svg>
